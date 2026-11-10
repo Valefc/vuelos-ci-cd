@@ -1,5 +1,5 @@
 vuelo_id,fecha,origen,destino,demora_salida_min,demora_llegada_min,distancia_millas,lote
-250451,2013-07-01,JFK,SFO,212,157,2586,nuevo
+250451,2013-07-01,JFK,SFO,212,157,0,nuevo
 250458,2013-07-01,JFK,TPA,183,172,1005,nuevo
 250466,2013-07-01,JFK,MIA,0,1,1089,nuevo
 250472,2013-07-01,LGA,DCA,-6,8,214,nuevo
